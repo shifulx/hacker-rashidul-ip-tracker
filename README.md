@@ -13,7 +13,7 @@ A simple Python-based IP tracking tool to get geolocation and ISP info of any pu
 - requests module
 
 Install with:
-
+git clone https://github.com/shifulx/hacker-rashidul-ip-tracker
 pip install requests
 
 
